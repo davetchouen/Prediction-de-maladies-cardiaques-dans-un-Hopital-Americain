@@ -1,4 +1,4 @@
-# Prédiction de maladies cardiaques
+# Prédiction de maladies cardiaques dans un Hopital Américain 
 Ce projet propose le développement d’un modèle de régression logistique pour prédire la présence de maladies cardiaques chez les patients d’un hôpital américain.
 Il vise à répondre à des questions cruciales pour la recherche clinique et la gestion des soins :
 
